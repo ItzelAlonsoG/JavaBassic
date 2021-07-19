@@ -4,7 +4,6 @@
 -  What is Java?
 -  Excersice
 -  Dependencies
--  Platform
 -  Information
 
 # What is Java?
