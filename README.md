@@ -55,8 +55,8 @@ HolaMundo project contains:
 - Download Intellij IDE.
 
 # Information
-[Download JDK](https://openjdk.java.net/)
-[Download Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=windows)
-[Platzi Course Java](https://platzi.com/clases/java-basico/)
+- [Download JDK](https://openjdk.java.net/)
+- [Download Intellij IDE](https://www.jetbrains.com/es-es/idea/download/#section=windows)
+- [Platzi Course Java](https://platzi.com/clases/java-basico/)
 
 
