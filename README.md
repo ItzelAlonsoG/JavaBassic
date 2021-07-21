@@ -4,11 +4,14 @@
 -  What is Java?
 -  Excersice
 -  Dependencies
+-  Deploy
+-  How Run the code 
 -  Information
 
 # What is Java?
 
-Java is a programming language, designed to be concurrent, class-based and object-oriented, as well as a computing platform first released by Sun Microsystems in 1995. An enormous amount of applications and websites will not work unless you have Java installed, and more are created every day. Denying yourself Java is akin to denying yourself access to a technological infrastructure. Java is advertised, and esteemed for its fast performance, security, and reliability.
+>Java is a programming language, designed to be concurrent, class-based and object-oriented, as well as a computing platform first released by Sun Microsystems in 1995. An enormous amount of applications and websites will not work unless you have Java installed, and more are created every day. Denying yourself Java is akin to denying yourself access to a technological infrastructure. Java is advertised, and esteemed for its fast performance, security, and reliability.
+
 <div aling = "center" width= "100%">
   <img src ="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" width = 200px">
 </div>
@@ -65,11 +68,21 @@ To use this repository you need to have the dependencies installed, next clone o
  
   - Select one of the three project to Start this travel in JAVA!                                                                                                      
                                                                                                                                   
-
-                                                                                            
-                                                                                           
-                                                                                            
-                                                                                            
+# How Run the code 
+                                                                                                                                  
+Before to download the repository and open one of the project en Intellij, you can run the program.
+                                                                                                                                  
+   - First search the Main function, in the **HolaMundo** project each one of the files have a main function in this case it will be **Array.js** and over the file right click next select the **Run Arrays.main()** option.                                                                                                                                
+                                                                                                                                  
+   <div>
+    <img src = "https://github.com/ItzelAlonsoG/JavaBassic/blob/main/JavaBasicRun1.png" width = "100%">                                                                                                                       
+   </div>    
+                                                                                                      
+  - Second, wait a couple of seconds and in the console IDE you will se this output.
+                                                                                                      
+   <div>
+    <img src = "https://github.com/ItzelAlonsoG/JavaBassic/blob/main/JavaBasicRun2.png" width = "100%">                                                                                                                       
+   </div>                                                                                                         
 
 # Information
 - [Download JDK](https://openjdk.java.net/)
